@@ -8,6 +8,7 @@ public class JavaAdventures {
 
 		System.out.println("You stranded on an island.");
 		System.out.println("What is your name?");
-		scanner.nextLine();
+		String name = scanner.nextLine();
+		System.out.println("Welcome, " + name);
 	}
 }
