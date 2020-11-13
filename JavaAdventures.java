@@ -10,6 +10,6 @@ public class JavaAdventures {
 		System.out.println("What is your name?");
 		String name = scanner.nextLine();
 		System.out.println("Welcome, " + name);
-		System.out.println("Nice to meet you");
+		System.out.println("Nice to meet you!");
 	}
 }
